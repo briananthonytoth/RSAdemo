@@ -1,7 +1,5 @@
 /*	EECS 4670
- * 	Brian Toth
  * 	Lab 3
- *  Prof: Dr. Thomas
  * 	12/8/2024
  */
 
@@ -173,4 +171,5 @@ public class Lab3 {
 		}
 		return i;
 	}
+
 }
